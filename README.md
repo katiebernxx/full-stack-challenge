@@ -1,6 +1,8 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app), which serves as the starter repository to [Remark's Backend Challenge](https://outdoorly.notion.site/Full-Stack-Challenge-1d64c0949c6c8010b5eaf9563d9250ba?pvs=4).
 
 ## Getting Started
+
+This app requires an OpenAI API key set in a `.env.local` file. See `.env.example`.
 
 First, run the development server:
 
